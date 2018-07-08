@@ -8,5 +8,5 @@ Package.describe({
 
 Package.onUse((api) => {
   api.versionsFrom('1.4');
-  api.mainModule('jquery.sparklines.js', 'client');
+  api.mainModule('jquery.sparkline.js', 'client');
 });
